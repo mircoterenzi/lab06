@@ -1,0 +1,6 @@
+{
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredDarkColorTheme": "Ayu Dark",
+    "workbench.preferredHighContrastColorTheme": "Ayu Light",
+    "files.autoSave": "onWindowChange"
+}

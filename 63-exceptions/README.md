@@ -43,3 +43,4 @@ no matter what, once the control flow exits the method,
 `commandQueue.clear()` must be executed.
 
 Suggestion: use `finally` appropriately.
+
